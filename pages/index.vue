@@ -1,8 +1,8 @@
 <template>
   <div class="container">
     <div>
-      <h1>Diversity Equity and Inclusion</h1>
-  </div>
+      <h1>Diversity Equity and Inclusion!</h1>
+    </div>
   </div>
 </template>
 
