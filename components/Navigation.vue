@@ -37,6 +37,15 @@ export default {
 }
 
 Nav {
+  a {
+    text-decoration: none;
+    color: $dark-grey;
+    transition: color 0.2s ease;
+    &:hover {
+      color: $brand-red;
+    }
+  }
+
   ul {
     list-style: none;
     padding: 0;
