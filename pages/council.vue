@@ -7,8 +7,9 @@
           :src="member.image"
           :alt="`${member.firstName} ${member.lastName}`"
         />
-        <h3>{{ member.firstName }}{{ member.lastName }}</h3>
-        <a :href="`mailto:${member.email}`">{{ member.email }}</a>
+        <h3>{{ member.firstName }} {{ member.lastName }}</h3>
+        <i class="fas fa-user"></i>
+        <a :href="`mailto:${member.email}`">Email</a>
       </div>
     </div>
   </div>
@@ -21,6 +22,17 @@ export default {
     return {
       members: data.members,
     }
+  },
+  beforeMount() {
+    window.addEventListener('scroll', this.handleScroll)
+  },
+  beforeDestroy() {
+    window.removeEventListener('scroll', this.handleScroll)
+  },
+  methods: {
+    handleScroll() {
+      console.log(window.scrollY)
+    },
   },
 }
 </script>
