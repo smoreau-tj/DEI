@@ -29,6 +29,12 @@ export default {
 h1 {
   text-align: center;
   color: rgb(255, 255, 255);
+  border-bottom: 1px solid $brand-red;
+  border-bottom-width: thick;
+  padding-bottom: 3px;
+  width: 200px;
+  margin: 0 auto;
+  margin-bottom: 0.2rem;
 }
 .council {
   display: flex;
@@ -53,7 +59,7 @@ h1 {
     max-width: calc(256px - 1rem);
   }
   h3 {
-    color: $brand-green;
+    color: $brand-red;
     margin: 0.5rem;
   }
   img {
