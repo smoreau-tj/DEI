@@ -12,6 +12,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
     "core-js": "^3.10.2",
     "js-cookie": "^2.2.1",
     "nuxt": "^2.14.12"
