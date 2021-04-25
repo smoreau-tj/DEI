@@ -76,11 +76,12 @@ h1 {
   }
   img {
     width: 100%;
-    filter: saturate(0%);
-    transition-timing-function: ease-in-outs;
-    transition: filter 2s;
+    filter: saturate(0) blur(0px);
+    transition-timing-function: linear;
+    transition: filter 3s;
+
     &:hover {
-      filter: saturate(60%);
+      filter: saturate(60%) blur(0px);
     }
   }
 }

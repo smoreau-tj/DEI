@@ -28,7 +28,8 @@ body {
   }
   .red-underline {
     text-transform: uppercase;
-    border-bottom: 1px solid red;
+    border-bottom-width: thick;
+    border-bottom: 2px solid red;
     padding-bottom: 2px;
   }
 }

@@ -19,7 +19,13 @@ export default {
 <style lang="scss" scoped>
 h1 {
   text-align: center;
-  color: $brand-red;
+  color: rgb(255, 255, 255);
+  border-bottom: 1px solid $brand-red;
+  border-bottom-width: thick;
+  padding-bottom: 3px;
+  width: 200px;
+  margin: 0 auto;
+  margin-bottom: 0.2rem;
 }
 p {
   line-height: 2.5;
