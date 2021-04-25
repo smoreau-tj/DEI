@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <h1>Diversity Equity and Inclusion!</h1>
+      <h1>Adjustment <span class="red-underline">needed</span></h1>
     </div>
   </div>
 </template>
@@ -10,7 +10,10 @@
 export default {}
 </script>
 
-<style>
+<style lang="scss">
+body {
+  background-color: #000;
+}
 .container {
   margin: 0 auto;
   min-height: 100vh;
@@ -18,27 +21,15 @@ export default {}
   justify-content: center;
   align-items: center;
   text-align: center;
-}
 
-.title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: block;
-  font-weight: 300;
-  font-size: 100px;
-  color: #35495e;
-  letter-spacing: 1px;
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
-.links {
-  padding-top: 15px;
+  h1 {
+    color: #fff;
+    line-height: 1.5em;
+  }
+  .red-underline {
+    text-transform: uppercase;
+    border-bottom: 1px solid red;
+    padding-bottom: 2px;
+  }
 }
 </style>

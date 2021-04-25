@@ -20,7 +20,7 @@ export default {
   css: ['~/assets/scss/main.scss'],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [],
+  plugins: ['~/plugins/auth.client'],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
@@ -28,15 +28,28 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/eslint
+    '@nuxtjs/tailwindcss',
     '@nuxtjs/eslint-module',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ['@nuxtjs/style-resources'],
+  modules: [
+    '@nuxtjs/style-resources',
+    // ['~/modules/test', { message: 'my Modules!!!!!!!' }],
+  ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {},
+  build: {
+    // extractCSS: true,
+  },
   styleResources: {
     scss: ['./assets/scss/*.scss'],
   },
+  publicRuntimeConfig: {
+    auth: {
+      cookieName: 'idToken',
+      clientId: process.env.CLIENT_ID,
+    },
+  },
+  privateRuntimeConfig: {},
 }

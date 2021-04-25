@@ -21,8 +21,18 @@ html {
   padding: 40px 40px 0 40px;
 }
 footer {
-  background-color: $lightest-grey;
+  //background-color: $lightest-grey;
+  color: #fff;
   min-height: 100px;
   text-align: center;
   height: 50px;
+}
+.avatar {
+  border-radius: 50%;
+  max-width: 50px;
+}
+.emphasis {
+  border-bottom: 2px solid $brand-red;
+  padding-bottom: 2px;
+  font-weight: bolder;
 }

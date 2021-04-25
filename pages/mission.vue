@@ -19,9 +19,11 @@ export default {
 <style lang="scss" scoped>
 h1 {
   text-align: center;
+  color: $brand-red;
 }
 p {
-  line-height: 1.5;
+  line-height: 2.5;
   margin: 1.5rem;
+  color: $white;
 }
 </style>

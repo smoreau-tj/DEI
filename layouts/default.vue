@@ -15,6 +15,12 @@ export default {
     Navigation,
     Footer,
   },
+  created() {},
+  methods: {
+    test() {
+      this.$store.dispatch('auth/counterUp')
+    },
+  },
 }
 </script>
 <style></style>
