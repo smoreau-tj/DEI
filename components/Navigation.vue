@@ -10,6 +10,12 @@
         <li v-if="isLoggedIn">
           <NuxtLink to="/mission">Mission</NuxtLink>
         </li>
+        <li v-if="isLoggedIn">
+          <NuxtLink to="/council">Council</NuxtLink>
+        </li>
+        <li v-if="isLoggedIn">
+          <NuxtLink to="/resources">Resources</NuxtLink>
+        </li>
         <li v-if="isLoggedIn"><NuxtLink to="/contact">Contact</NuxtLink></li>
       </ul>
     </div>
@@ -52,6 +58,7 @@ export default {
   // background-color: #fff;
   //background-blend-mode: screen multiply;
   //padding-top: 1.5rem;
+  margin: 0 auto;
 }
 nav {
   //background-color: #fff;
