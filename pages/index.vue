@@ -1,13 +1,20 @@
 <template>
   <div class="container">
     <div>
-      <h1>Adjustment <span class="red-underline">needed</span></h1>
+      <h1>adjustment <span class="red-underline">needed</span></h1>
+      <div v-show="!isLoggedIn" id="googleButton"></div>
     </div>
   </div>
 </template>
 
 <script>
-export default {}
+export default {
+  computed: {
+    isLoggedIn() {
+      return this.$store.state.auth.isLoggedIn
+    },
+  },
+}
 </script>
 
 <style lang="scss">
@@ -27,7 +34,6 @@ body {
     line-height: 1.5em;
   }
   .red-underline {
-    text-transform: uppercase;
     border-bottom-width: thick;
     border-bottom: 2px solid red;
     padding-bottom: 2px;

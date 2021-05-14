@@ -3,7 +3,10 @@
     <div class="nav-left">
       <div class="logo">
         <NuxtLink to="/">
-          <img class="logo" src="@/assets/svg/tj-logo.svg" alt="TommyJohn Logo"
+          <img
+            class="logo"
+            src="@/assets/svg/tj-logo1.svg"
+            alt="TommyJohn Logo"
         /></NuxtLink>
       </div>
       <ul>
@@ -25,7 +28,6 @@
         <img :src="user.profileUrl" :alt="user.fullName" class="avatar" />
       </div>
     </template>
-    <div v-show="!isLoggedIn" id="googleButton"></div>
   </nav>
 </template>
 
