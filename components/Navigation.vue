@@ -17,6 +17,9 @@
           <NuxtLink to="/council">Council</NuxtLink>
         </li>
         <li v-if="isLoggedIn">
+          <NuxtLink to="/events">Events</NuxtLink>
+        </li>
+        <li v-if="isLoggedIn">
           <NuxtLink to="/resources">Resources</NuxtLink>
         </li>
         <li v-if="isLoggedIn"><NuxtLink to="/contact">Contact</NuxtLink></li>
@@ -97,7 +100,7 @@ nav {
     color: $dark-grey;
     transition: color 0.2s ease;
     &:hover {
-      color: $brand-red;
+      color: red;
     }
   }
 

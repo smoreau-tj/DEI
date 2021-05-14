@@ -1,0 +1,46 @@
+{
+  "resources": [
+    {
+      "resource": "Ijeoma Oluo",
+      "type": "Author",
+      "topic": "",
+      "description": "General website",
+      "url": "https://www.ijeomaoluo.com/books"
+    },
+    {
+      "resource": "So You Want To Talk About Race",
+      "type": "Book",
+      "topic": "Race",
+      "description": "In this New York Times bestseller, Ijeoma Oluo offers a hard-hitting but user-friendly examination of race in America",
+      "url": "https://www.amazon.com/You-Want-Talk-About-Race-ebook/dp/B07QBNKJTZ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1619205818&sr=8-1"
+    },
+    {
+      "resource": "The Social Media Dilema",
+      "type": "Netflix Documentary",
+      "topic": "Social Media",
+      "description": "Tech experts sound the alarm on the dangerous human impact of social networking.",
+      "url": "https://www.netflix.com/title/81254224"
+    },
+    {
+      "resource": "The 1619 Project",
+      "type": "Interactive Website",
+      "topic": "African American Slavery",
+      "description": "The 1619 Project is a long-form journalism project developed by Nikole Hannah-Jones, writers from The New York Times, and The New York Times Magazine which \"aims to reframe the country's history by placing the consequences of slavery and the contributions of Black Americans at the very center of the United States' national narrative\"",
+      "url": "https://www.nytimes.com/interactive/2019/08/14/magazine/1619-america-slavery.html"
+    },
+    {
+      "resource": "The Making of Asian America: A History",
+      "type": "Book",
+      "topic": "Asian American History",
+      "description": "A \"comprehensive...fascinating\" (The New York Times Book Review) history of Asian Americans and their role in American life, by one of the nation's preeminent scholars on the subject.",
+      "url": "https://www.amazon.com/Making-Asian-America-History-ebook/dp/B00P434BMQ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr="
+    },
+    {
+      "resource": "Coded Bias",
+      "type": "Netflix Documentary",
+      "topic": "Inequality in technology",
+      "description": "his documentary investigates the bias in algorithms after M.I.T. Media Lab researcher Joy Buolamwini uncovered flaws in facial recognition technology.",
+      "url": "https://www.netflix.com/title/81328723"
+    }
+  ]
+}

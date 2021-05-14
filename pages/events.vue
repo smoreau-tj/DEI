@@ -1,17 +1,11 @@
 <template>
   <div class="container">
-    <h1>Resources</h1>
+    <h1>events</h1>
   </div>
 </template>
 
 <script>
-export default {
-  data() {
-    return {
-      content: {},
-    }
-  },
-}
+export default {}
 </script>
 
 <style lang="scss" scoped>
@@ -21,7 +15,7 @@ h1 {
   border-bottom: 1px solid red;
   border-bottom-width: thick;
   padding-bottom: 3px;
-  width: 180px;
+  width: 100px;
   margin: 0 auto;
   margin-bottom: 0.2rem;
 }
