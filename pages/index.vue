@@ -4,6 +4,10 @@
       <h1>adjustment <span class="red-underline">needed</span></h1>
       <div v-show="!isLoggedIn" id="googleButton"></div>
     </div>
+    <div class="updates">
+      <h3>in progress</h3>
+      <NuxtLink to="/aapi">AAPI Month</NuxtLink>
+    </div>
   </div>
 </template>
 
@@ -25,6 +29,7 @@ body {
   margin: 0 auto;
   min-height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
