@@ -25,49 +25,55 @@
         }
       ]
     },
-    "celebrate": [
-      {
-        "title": "Discover and make a new dish",
-        "url": "https://tasty.co/topic/asian-pacific-american-heritage-month"
-      },
-      {
-        "title": "Watch an AAPI movie",
-        "url": "https://www.buzzfeed.com/claratsacwang/aapi-movies-you-should-watch-now"
-      },
-      {
-        "title": "Read a book by an Asian author",
-        "url": "https://www.goodhousekeeping.com/life/entertainment/g35914502/best-books-by-asian-authors/"
-      },
-      {
-        "title": "Events around NYC",
-        "url": "https://www.eventbrite.com/d/ny--new-york/asian-events/"
-      },
-      {
-        "title": "Visit a museum or cultural institution",
-        "url": "https://www.nycgo.com/articles/cultural-institutions-asian-pacific-heritage-month"
-      }
-    ],
-    "getInvolved": [
-      {
-        "title": "#StopAsianHate",
-        "url": "https://stopaapihate.org/"
-      },
-      {
-        "title": "Support Chinatown businesses",
-        "url": "https://www.welcometochinatown.com/"
-      },
-      {
-        "title": "Deliver love to Asian elders throughout NYC, one meal at a time.",
-        "url": "https://www.heartofdinner.org/"
-      },
-      {
-        "title": "Fight for civil rights and empowering Asian Americans to create a more just America for all.",
-        "url": "https://www.advancingjustice-aajc.org/"
-      },
-      {
-        "title": "Help normalize and de-stigmatize mental health within the Asian community",
-        "url": "https://www.asianmhc.org/"
-      }
-    ]
+    "celebrate": {
+      "title":"How to celebrate this month",
+      "info": [
+        {
+          "title": "Discover and make a new dish",
+          "url": "https://tasty.co/topic/asian-pacific-american-heritage-month"
+        },
+        {
+          "title": "Watch an AAPI movie",
+          "url": "https://www.buzzfeed.com/claratsacwang/aapi-movies-you-should-watch-now"
+        },
+        {
+          "title": "Read a book by an Asian author",
+          "url": "https://www.goodhousekeeping.com/life/entertainment/g35914502/best-books-by-asian-authors/"
+        },
+        {
+          "title": "Events around NYC",
+          "url": "https://www.eventbrite.com/d/ny--new-york/asian-events/"
+        },
+        {
+          "title": "Visit a museum or cultural institution",
+          "url": "https://www.nycgo.com/articles/cultural-institutions-asian-pacific-heritage-month"
+        }
+      ]
+    },
+    "getInvolved": {
+      "title":"Get involved",
+      "info": [
+        {
+          "title": "#StopAsianHate",
+          "url": "https://stopaapihate.org/"
+        },
+        {
+          "title": "Support Chinatown businesses",
+          "url": "https://www.welcometochinatown.com/"
+        },
+        {
+          "title": "Deliver love to Asian elders throughout NYC, one meal at a time.",
+          "url": "https://www.heartofdinner.org/"
+        },
+        {
+          "title": "Fight for civil rights and empowering Asian Americans to create a more just America for all.",
+          "url": "https://www.advancingjustice-aajc.org/"
+        },
+        {
+          "title": "Help normalize and de-stigmatize mental health within the Asian community",
+          "url": "https://www.asianmhc.org/"
+        }
+      ]
+    }
   }
 }
