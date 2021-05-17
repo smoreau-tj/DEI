@@ -18,9 +18,9 @@
           </li>
         </ul>
 
-        <h3>{{ content.celebrate.title }}</h3>
+        <h3>{{ content.getInvolved.title }}</h3>
         <ul>
-          <li v-for="(item, index) in content.celebrate.info" :key="index">
+          <li v-for="(item, index) in content.getInvolved.info" :key="index">
             <a :href="item.url" target="_blank">{{ item.title }}</a>
           </li>
         </ul>
@@ -82,6 +82,20 @@ main {
     transform: translateY(-40%);
     border: 5px solid #edc67e;
     background-color: #fff;
+    height: 100%;
+    overflow-y: auto;
+
+    a {
+      transition: color 0.2s ease-in-out;
+
+      &:hover {
+        color: #ac0a07;
+      }
+    }
+
+    ul {
+      padding: 1rem 0;
+    }
   }
 }
 </style>

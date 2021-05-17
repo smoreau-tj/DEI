@@ -4,9 +4,9 @@
       <h1>adjustment <span class="red-underline">needed</span></h1>
       <div v-show="!isLoggedIn" id="googleButton"></div>
     </div>
-    <div class="updates">
+    <div v-show="isLoggedIn" class="updates">
       <h3>in progress</h3>
-      <NuxtLink to="/aapi">AAPI Month</NuxtLink>
+      <NuxtLink to="/aapi" class="aapi">AAPI Month</NuxtLink>
     </div>
   </div>
 </template>
@@ -42,6 +42,13 @@ body {
     border-bottom-width: thick;
     border-bottom: 2px solid red;
     padding-bottom: 2px;
+  }
+  .aapi {
+    color: red;
+  }
+  #googleButton {
+    display: flex;
+    justify-content: center;
   }
 }
 </style>
