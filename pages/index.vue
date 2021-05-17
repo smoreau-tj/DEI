@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <h1>adjustment <span class="red-underline">needed</span></h1>
-      <div v-show="!isLoggedIn" id="googleButton"></div>
+      <!-- <div v-show="!isLoggedIn" id="googleButton"></div> -->
     </div>
     <div v-show="isLoggedIn" class="updates">
       <h3>in progress</h3>
