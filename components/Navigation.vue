@@ -10,16 +10,16 @@
         /></NuxtLink>
       </div>
       <ul>
-        <li v-if="isLoggedIn">
+        <li>
           <NuxtLink to="/mission">Mission</NuxtLink>
         </li>
-        <li v-if="isLoggedIn">
+        <li>
           <NuxtLink to="/council">Council</NuxtLink>
         </li>
-        <li v-if="isLoggedIn">
+        <li>
           <NuxtLink to="/events">Events</NuxtLink>
         </li>
-        <li v-if="isLoggedIn">
+        <li>
           <NuxtLink to="/resources">Resources</NuxtLink>
         </li>
         <!-- <li v-if="isLoggedIn"><NuxtLink to="/contact">Contact</NuxtLink></li> -->
