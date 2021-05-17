@@ -17,7 +17,6 @@
             <a :href="item.url" target="_blank">{{ item.title }}</a>
           </li>
         </ul>
-
         <h3>{{ content.getInvolved.title }}</h3>
         <ul>
           <li v-for="(item, index) in content.getInvolved.info" :key="index">
