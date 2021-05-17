@@ -22,7 +22,7 @@
         <li v-if="isLoggedIn">
           <NuxtLink to="/resources">Resources</NuxtLink>
         </li>
-        <li v-if="isLoggedIn"><NuxtLink to="/contact">Contact</NuxtLink></li>
+        <!-- <li v-if="isLoggedIn"><NuxtLink to="/contact">Contact</NuxtLink></li> -->
       </ul>
     </div>
     <template v-if="isLoggedIn">
