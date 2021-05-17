@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>Resources</h1>
+    <h1>resources</h1>
   </div>
 </template>
 
@@ -21,7 +21,7 @@ h1 {
   border-bottom: 1px solid red;
   border-bottom-width: thick;
   padding-bottom: 3px;
-  width: 180px;
+  width: 150px;
   margin: 0 auto;
   margin-bottom: 0.2rem;
 }

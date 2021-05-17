@@ -61,7 +61,7 @@ export default {
 h1 {
   text-align: center;
   color: rgb(255, 255, 255);
-  border-bottom: 1px solid $brand-red;
+  border-bottom: 1px solid red;
   border-bottom-width: thick;
   padding-bottom: 3px;
   width: 200px;
@@ -107,8 +107,9 @@ h1 {
     padding: 1rem;
     max-width: 200px;
     border-radius: 5px;
-    background-color: $brand-red;
+    background-color: red;
     color: #fff;
+    font-weight: bold;
   }
 }
 option {
