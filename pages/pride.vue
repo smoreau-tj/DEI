@@ -3,26 +3,29 @@
     <div class="header">
       <img :src="content.image" alt="" />
       <div class="content">
-        <p class="intro">{{ content.content }}</p>
-        <p>{{ content.intro }}</p>
-        <h3>{{ content.learnMore.title }}</h3>
-        <ul>
-          <li v-for="(item, index) in content.learnMore.info" :key="index">
-            <a :href="item.url" target="_blank">{{ item.title }}</a>
-          </li>
-        </ul>
-        <h3>{{ content.celebrate.title }}</h3>
-        <ul>
-          <li v-for="(item, index) in content.celebrate.info" :key="index">
-            <a :href="item.url" target="_blank">{{ item.title }}</a>
-          </li>
-        </ul>
-        <h3>{{ content.getInvolved.title }}</h3>
-        <ul>
-          <li v-for="(item, index) in content.getInvolved.info" :key="index">
-            <a :href="item.url" target="_blank">{{ item.title }}</a>
-          </li>
-        </ul>
+        <div class="content_header">
+          <p class="intro">{{ content.content }}</p>
+          <p>{{ content.intro }}</p>
+        </div>
+        <div class="content_body sections">
+          <div
+            v-for="(section, index) in content.sections"
+            :key="index"
+            class="section-body"
+          >
+            <h3>{{ section.title }}</h3>
+            <ul class="section-list">
+              <li
+                v-for="(item, itemIndex) in section.section"
+                :key="itemIndex"
+                class="section-list_item"
+              >
+                <a :href="item.url" target="_blank">{{ item.title }}</a>
+                <p>{{ item.description }}</p>
+              </li>
+            </ul>
+          </div>
+        </div>
       </div>
     </div>
   </main>
