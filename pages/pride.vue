@@ -33,7 +33,7 @@ import data from '@/assets/data/pride'
 export default {
   data() {
     return {
-      content: data.aapi,
+      content: data.pride,
     }
   },
 }
