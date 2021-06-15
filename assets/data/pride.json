@@ -1,0 +1,79 @@
+{
+  "aapi": {
+    "intro": "AAPI stands for Asian Americans and Pacific Islanders and refers to Americans with ancestry in the Far East, Southeast Asia, South Asia, or the Pacific Islands.",
+    "content": "May is Asian Pacific American Heritage Month and commemorates when the first Japanese immigrant arrived in the United States on May 7, 1843 and when the First Transcontinental Railroad, which was completed using Chinese labor on May 10, 1869.",
+    "sampleImage": "https://via.placeholder.com/1500x655/C52A19/D0B128/?text=AAPI",
+    "image": "/aapi.svg",
+    "learnMore": {
+      "title": "Learn more about AAPI history",
+      "info": [
+        {
+          "title": "Chinese Exclusion Act",
+          "url": "https://www.pbs.org/wgbh/americanexperience/films/chinese-exclusion-act/#part01"
+        },
+        {
+          "title": "Recent Rise in Asian Hate",
+          "url": "https://www.nbcnews.com/news/asian-america/anti-asian-hate-crimes-increased-nearly-150-2020-mostly-n-n1260264"
+        },
+        {
+          "title": "Japanese Internment Camps",
+          "url": "https://www.history.com/topics/world-war-ii/japanese-american-relocation"
+        },
+        {
+          "title": "The Life And Legacy Of Martial Arts Star Bruce Lee",
+          "url": "https://www.wbur.org/hereandnow/2020/06/04/bruce-lee-be-water-espn"
+        }
+      ]
+    },
+    "celebrate": {
+      "title":"How to celebrate this month",
+      "info": [
+        {
+          "title": "Discover and make a new dish",
+          "url": "https://tasty.co/topic/asian-pacific-american-heritage-month"
+        },
+        {
+          "title": "Watch an AAPI movie",
+          "url": "https://www.buzzfeed.com/claratsacwang/aapi-movies-you-should-watch-now"
+        },
+        {
+          "title": "Read a book by an Asian author",
+          "url": "https://www.goodhousekeeping.com/life/entertainment/g35914502/best-books-by-asian-authors/"
+        },
+        {
+          "title": "Events around NYC",
+          "url": "https://www.eventbrite.com/d/ny--new-york/asian-events/"
+        },
+        {
+          "title": "Visit a museum or cultural institution",
+          "url": "https://www.nycgo.com/articles/cultural-institutions-asian-pacific-heritage-month"
+        }
+      ]
+    },
+    "getInvolved": {
+      "title":"Get involved",
+      "info": [
+        {
+          "title": "#StopAsianHate",
+          "url": "https://stopaapihate.org/"
+        },
+        {
+          "title": "Support Chinatown businesses",
+          "url": "https://www.welcometochinatown.com/"
+        },
+        {
+          "title": "Deliver love to Asian elders throughout NYC, one meal at a time.",
+          "url": "https://www.heartofdinner.org/"
+        },
+        {
+          "title": "Fight for civil rights and empowering Asian Americans to create a more just America for all.",
+          "url": "https://www.advancingjustice-aajc.org/"
+        },
+        {
+          "title": "Help normalize and de-stigmatize mental health within the Asian community",
+          "url": "https://www.asianmhc.org/"
+        }
+      ]
+    }
+  }
+}

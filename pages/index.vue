@@ -7,6 +7,7 @@
     <div class="updates">
       <h3>in progress</h3>
       <NuxtLink to="/aapi" class="aapi">AAPI Month</NuxtLink>
+      <NuxtLink to="/pride" class="aapi">Pride Month</NuxtLink>
     </div>
   </div>
 </template>
