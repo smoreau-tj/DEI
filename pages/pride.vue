@@ -55,6 +55,7 @@ main {
   h3 {
     border-bottom: 1px solid red;
     text-align: center;
+    margin: 0 0 1rem 0;
   }
 }
 .header {
@@ -69,7 +70,7 @@ main {
 }
 .intro {
   color: #ac0a07;
-  padding: 1rem 0;
+  padding: 0 0 1rem 0;
   line-height: 2;
   font-weight: bold;
 }
@@ -86,17 +87,27 @@ main {
     background-color: #fff;
     height: 100%;
     overflow-y: auto;
-
     a {
       transition: color 0.2s ease-in-out;
-
       &:hover {
         color: #ac0a07;
       }
     }
-
-    ul {
-      padding: 1rem 0;
+  }
+  .section-body {
+    padding: 0 0 1rem 0;
+  }
+  .section-list_item {
+    padding: 0 0 1rem 0;
+    &::before {
+      content: '\1F308';
+      font-size: 12px;
+      position: absolute;
+      margin-top: 4px;
+    }
+    a {
+      padding-left: 24px;
+      display: inline-block;
     }
   }
 }
