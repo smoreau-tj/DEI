@@ -6,7 +6,7 @@
     </div>
     <div class="updates">
       <h3>Past Events</h3>
-      <NuxtLink to="/aapi" class="aapi">AAPI Month</NuxtLink>
+      <NuxtLink to="/aapi" class="past">AAPI Month</NuxtLink>
       <h3>In Progress</h3>
       <NuxtLink to="/pride" class="aapi">Pride Month</NuxtLink>
     </div>
@@ -47,6 +47,12 @@ body {
   }
   .aapi {
     color: red;
+  }
+  .past {
+    color: #fff;
+  }
+  h3 {
+    margin-bottom: 0;
   }
   #googleButton {
     display: flex;
