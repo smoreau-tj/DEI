@@ -1,0 +1,285 @@
+{
+  "pride": {
+    "intro": "",
+    "content": "For each order that contains Pride product from 5.21-6.30, Tommy John will donate $5 to the Ali Forney Center whose mission is to protect LGBTQ youths from the harms of homelessness and empower them with the tools needed to live independently.",
+    "sampleImage": "https://via.placeholder.com/1500x655/C52A19/D0B128/?text=PRIDE",
+    "image": "/pride2.png",
+    "sections": [
+      {
+        "title": "Upcoming Events",
+        "section":[
+          {
+            "title": "Pride Happy Hour Hosted by Ryan Colford",
+            "description": "",
+            "url": "https://zoom.us/j/93658280333?pwd=T3JkNXNuRVM3ZHV6ckhOZjdrODBYZz09"
+          }
+        ]
+      },
+      {
+        "title": "Recommended Resources",
+        "section":[
+          {
+            "title": "LGBT Resources",
+            "description": "Provides a listing of multiple resources.",
+            "url": "https://www.nycupandout.com/lgbt-directory.html"
+          },
+          {
+            "title": "The Ali Forney Center",
+            "description": "Our mission is to protect LGBTQ youths from the harms of homelessness and empower them with the tools needed to live independently.",
+            "url": "https://www.aliforneycenter.org/"
+          },
+          {
+            "title": "The Leslie Lohman Museum of Art",
+            "description": "The Leslie-Lohman Museum of Art is the only dedicated LGBTQ+ art museum in the world with a mission to exhibit and preserve LGBTQ+ art and foster the artists who create it.",
+            "url": "https://www.leslielohman.org/"
+          },
+          {
+            "title": "Broadway Cares/Equity Fights AIDS",
+            "description": "The Broadway Cares/Equity Fights AIDS helps men, women and children across the country and across the street receive lifesaving medications, health care, nutritious meals, counseling and emergency financial assistance.",
+            "url": "https://broadwaycares.org/"
+          },
+          {
+            "title": "Callan-Lorde",
+            "description": "Callen-Lorde Community Health Center provides sensitive, quality health care and related services targeted to New York’s lesbian, gay, bisexual, and transgender communities — in all their diversity — regardless of ability to pay. To further this mission, Callen-Lorde promotes health education and wellness, and advocates for LGBTQ health issues.",
+            "url": "https://callen-lorde.org/"
+          },
+          {
+            "title": "The Center",
+            "description": "The Center fosters a welcoming environment where everyone is celebrated for who they are. We offer the LGBTQ communities of NYC advocacy, health and wellness programs; arts, entertainment and cultural events; recovery, parenthood and family support services.",
+            "url": "https://gaycenter.org/"
+          },
+          {
+            "title": "The Trevor Project",
+            "description": "Founded in 1998 by the creators of the Academy Award®-winning short film TREVOR, The Trevor Project is the leading national organization providing crisis intervention and suicide prevention services to lesbian, gay, bisexual, transgender, queer & questioning (LGBTQ) young people under 25.",
+            "url": "https://www.thetrevorproject.org/"
+          },
+          {
+            "title": "GMHC (Gay Men’s Health Crisis)",
+            "description": "We provide HIV and STI testing, food and nutrition programs, housing support, workforce development, legal assistance, advocacy for benefits and health insurance, mental health and emotional support, substance use counseling, and more.",
+            "url": "https://www.gmhc.org/"
+          },
+          {
+            "title": "God’s Love We Deliver",
+            "description": "The mission of God’s Love We Deliver is to improve the health and well-being of men, women and children living with HIV/AIDS, cancer and other serious illnesses by alleviating hunger and malnutrition. We prepare and deliver nutritious, high-quality meals to people who, because of their illness, are unable to provide or prepare meals for themselves.",
+            "url": "https://www.glwd.org/"
+          },
+          {
+            "title": "Human Rights Campaign",
+            "description": "We’ve spent 40 years creating the most powerful movement for equality our country has ever seen. But despite this progress, our most marginalized are still suffering from violence, discrimination and fear. Our goal is to ensure that all LGBTQ people, and particularly those of us who are trans, people of color and HIV+, are treated as full and equal citizens within our movement, across our country and around the world.",
+            "url": "https://www.hrc.org/"
+          },
+          {
+            "title": "ACT UP",
+            "description": "ACT UP was formed in response to social neglect, government negligence and the complacency of the medical establishment during the 1980s. Soon it found itself needing to fight corporate greed, lack of solidarity and various forms of stigma and discrimination at home and abroad.",
+            "url": "https://actupny.com/"
+          },
+          {
+            "title": "Frontrunners",
+            "description": "Front Runners New York (FRNY) is New York City’s LGBT running club.",
+            "url": "https://frny.org/"
+          }
+        ]
+      },
+      {
+        "title": "Links of Interest",
+        "section":[
+          {
+            "title": "Marsha P. Johnson",
+            "description": "Activist credit for being responsible for initiating Stonewall riots that resulted in what has become gay pride",
+            "url": "https://en.wikipedia.org/wiki/Marsha_P._Johnson"
+          },
+          {
+            "title": "Sylvia Rivera",
+            "description": "Gay and Transgender Rights Activist",
+            "url": "https://en.wikipedia.org/wiki/Sylvia_Rivera"
+          },
+          {
+            "title": "Reagan Administration's Chilling Response to the AIDS Crisis",
+            "description": "",
+            "url": "https://www.youtube.com/watch?v=yAzDn7tE1lU&ab_channel=VanityFair"
+          },
+          {
+            "title": "Special Conversation with former Congressman Barney Frank",
+            "description": "Fifty years after Stonewall",
+            "url": "http://www.roosevelthouse.hunter.cuny.edu/events/50-years-after-stonewall-with-former-congressman-barney-frank/"
+          }
+        ]
+      },
+      {
+        "title": "Documentaries",
+        "section":[
+          {
+            "title": "Paris is Burning",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt0100332"
+          },
+          {
+            "title": "Bridegroom",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt2357788"
+          },
+          {
+            "title": "The Death and Life of Marsha P.Johnson",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt5233558"
+          },
+          {
+            "title": "Disclosure",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt8637504"
+          },
+          {
+            "title": "Word is Out: Stories of some of our lives",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt0199143"
+          },
+          {
+            "title": "The Times of Harvey Milk",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt0088275"
+          },
+          {
+            "title": "Tongues Untied - The Black Gay Male Experience",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt0103099"
+          },
+          {
+            "title": "Common Threads: Stories from the Quilt",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt0097099"
+          },
+          {
+            "title": "The Celluloid Closet",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt0112651"
+          },
+          {
+            "title": "We Were Here",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt1787837"
+          }
+        ]
+      },
+      {
+        "title": "Movies",
+        "section":[
+          {
+            "title": "Angels in America",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt0318997"
+          },
+          {
+            "title": "The Normal Heart",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt1684226"
+          },
+          {
+            "title": "Torch Song Trilogy",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt0096289"
+          },
+          {
+            "title": "Holding the Man",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt3671542"
+          },
+          {
+            "title": "Dallas Buyers Club",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt0790636"
+          },
+          {
+            "title": "Milk",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt1013753"
+          },
+          {
+            "title": "Love, Simon",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt5164432"
+          },
+          {
+            "title": "Priscilla Queen of the Desert",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt0109045"
+          },
+          {
+            "title": "The Imitation Game",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt2084970"
+          },
+          {
+            "title": "Love is Strange",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt2639344"
+          },
+          {
+            "title": "Circus of Books",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt8727582"
+          },
+          {
+            "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt0114682"
+          },
+          {
+            "title": "Boys Don’t Cry",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt0171804"
+          },
+          {
+            "title": "Ma Vie en Rose",
+            "description": "",
+            "url": "https://www.imdb.com/title/tt0119590"
+          }
+        ]
+      },
+      {
+        "title": "Events",
+        "section":[
+          {
+            "title": "LGBTQ+ CityTalk Panel Discussion: Proud Employees",
+            "description": "Friday, June 11, 2021 3:00 P. M. to 4:30 P. M. ET | DCAS Zoom platform | Link to Register",
+            "url": "http://bit.ly/0611CityTalkLGBT"
+          },
+          {
+            "title": "RSK Pride Drashah Shabbat",
+            "description": "Friday, June 11, 6:30pm ET | Livestream",
+            "url": "https://cbst.org/livestream"
+          },
+          {
+            "title": "History of Pride Workshop",
+            "description": "Wednesday, June 23, 8:00-9:00 PM ET",
+            "url": "https://www.christopherstreettours.com/calendar/virtual-history-of-pride-presentation-1"
+          },
+          {
+            "title": "Pride Trivia",
+            "description": "Thursday, June 24, 8:00-9:00 PM ET",
+            "url": "https://www.christopherstreettours.com/calendar/virtual-pride-trivia"
+          },
+          {
+            "title": "Staten Island PrideFest 2021 Transportation Parade & Picnic!",
+            "description": "Saturday June 26, 2021 11:00AM - 2PM EST",
+            "url": "https://pridecentersi.org/car-parade"
+          },
+          {
+            "title": "Brooklyn",
+            "description": "This link provides a number of events local to Brooklyn.",
+            "url": "https://brooklynpride.org/"
+          },
+          {
+            "title": "Manhattan | LGBTQIA+ Pride Parade",
+            "description": "June 27, 2021 @ 12:00 pm | Start: 26th Street & 5th Ave | End: 23rd Street & 7th Ave",
+            "url": "https://www.nycpride.org/"
+          },
+          {
+            "title": "Manhattan | Queer Liberation March",
+            "description": "June 27, 2021 @ 2:30pm | Start: Bryant Park | End: Washington Square Park",
+            "url": "https://reclaimpridenyc.org"
+          }
+        ]
+      }
+    ]
+  }
+}

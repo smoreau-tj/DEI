@@ -5,8 +5,10 @@
       <!-- <div v-show="!isLoggedIn" id="googleButton"></div> -->
     </div>
     <div class="updates">
-      <h3>in progress</h3>
-      <NuxtLink to="/aapi" class="aapi">AAPI Month</NuxtLink>
+      <h3>Past Events</h3>
+      <NuxtLink to="/aapi" class="past">AAPI Month</NuxtLink>
+      <h3>In Progress</h3>
+      <NuxtLink to="/pride" class="aapi">Pride Month</NuxtLink>
     </div>
   </div>
 </template>
@@ -45,6 +47,12 @@ body {
   }
   .aapi {
     color: red;
+  }
+  .past {
+    color: #fff;
+  }
+  h3 {
+    margin-bottom: 0;
   }
   #googleButton {
     display: flex;
