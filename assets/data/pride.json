@@ -1,15 +1,15 @@
 {
   "pride": {
     "intro": "",
-    "content": "For each order that contains prode product Tommy John will donate $5 to the Ali Forney Center whose mission is to protect LGBTQ youths from the harms of homelessness and empower them with the tools needed to live independently. 5.21-6.30",
+    "content": "For each order that contains pride product Tommy John will donate $5 to the Ali Forney Center whose mission is to protect LGBTQ youths from the harms of homelessness and empower them with the tools needed to live independently. 5.21-6.30",
     "sampleImage": "https://via.placeholder.com/1500x655/C52A19/D0B128/?text=AAPI",
-    "image": "/pride.png",
+    "image": "/pride2.png",
     "sections": [
       {
         "title": "Upcoming Events",
         "section":[
           {
-            "title": "Pride Lunch & Learn",
+            "title": "Pride Happy Hour Hosted by Ryan Colford",
             "description": "",
             "url": ""
           }
@@ -91,7 +91,7 @@
           {
             "title": "Sylvia Rivera",
             "description": "Gay and Transgender Rights Activist",
-            "url": ""
+            "url": "https://en.wikipedia.org/wiki/Sylvia_Rivera"
           },
           {
             "title": "Reagan Administration's Chilling Response to the AIDS Crisis",
@@ -121,12 +121,12 @@
           {
             "title": "The Death and Life of Marsha P.Johnson",
             "description": "",
-            "url": "https://www.imdb.com/title/tt4042818"
+            "url": "https://www.imdb.com/title/tt5233558"
           },
           {
             "title": "Disclosure",
             "description": "",
-            "url": "https://www.imdb.com/title/tt0109635"
+            "url": "https://www.imdb.com/title/tt8637504"
           },
           {
             "title": "Word is Out: Stories of some of our lives",
@@ -271,7 +271,7 @@
           {
             "title": "Manhattan | LGBTQIA+ Pride Parade",
             "description": "June 27, 2021 @ 12:00 pm | Start: 26th Street & 5th Ave | End: 23rd Street & 7th Ave",
-            "url": ""
+            "url": "https://www.nycpride.org/"
           },
           {
             "title": "Manhattan | Queer Liberation March",
